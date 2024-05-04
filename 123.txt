@@ -1,0 +1,41 @@
+using System;
+namespace ConsoleApp1
+{
+    internal class KolokolnikovVar4
+    {
+        public class InvalidNameException : Exception
+        {
+            public InvalidNameException(string message) : base(message)
+        }
+
+        static void ValidateName(string name)
+        {
+
+            if (name[0] != name[0].ToUpper())
+            {
+                throw new InvalidNameException("Names are capitalized.");
+            }
+        }
+
+        static void Main (string[] args)
+        {
+            Console.WriteLine($"\n\nKolokolnikov. --------------------------------------------------------\n");
+            Console.ReadLine();
+            try 
+            {
+                Console.Write("Enter name: ");
+                Console.ReadLine();
+            }
+            catch (InvalidNameException ex)
+            {
+                Console.WriteLine($"InvalidNameException: {ex.Message}");
+            }
+            finally
+            {
+                Console.WriteLine("The end.");
+            }
+
+
+        }
+    }
+}

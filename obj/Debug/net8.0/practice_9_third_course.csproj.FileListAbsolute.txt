@@ -1,0 +1,14 @@
+F:\University\Интернет технологии и базы данных\Практика\9\practice_9_third_course\obj\Debug\net8.0\practice_9_third_course.GeneratedMSBuildEditorConfig.editorconfig
+F:\University\Интернет технологии и базы данных\Практика\9\practice_9_third_course\obj\Debug\net8.0\practice_9_third_course.AssemblyInfoInputs.cache
+F:\University\Интернет технологии и базы данных\Практика\9\practice_9_third_course\obj\Debug\net8.0\practice_9_third_course.AssemblyInfo.cs
+F:\University\Интернет технологии и базы данных\Практика\9\practice_9_third_course\obj\Debug\net8.0\practice_9_third_course.csproj.CoreCompileInputs.cache
+F:\University\Интернет технологии и базы данных\Практика\9\practice_9_third_course\bin\Debug\net8.0\practice_9_third_course.exe
+F:\University\Интернет технологии и базы данных\Практика\9\practice_9_third_course\bin\Debug\net8.0\practice_9_third_course.deps.json
+F:\University\Интернет технологии и базы данных\Практика\9\practice_9_third_course\bin\Debug\net8.0\practice_9_third_course.runtimeconfig.json
+F:\University\Интернет технологии и базы данных\Практика\9\practice_9_third_course\bin\Debug\net8.0\practice_9_third_course.dll
+F:\University\Интернет технологии и базы данных\Практика\9\practice_9_third_course\bin\Debug\net8.0\practice_9_third_course.pdb
+F:\University\Интернет технологии и базы данных\Практика\9\practice_9_third_course\obj\Debug\net8.0\practice_9_third_course.dll
+F:\University\Интернет технологии и базы данных\Практика\9\practice_9_third_course\obj\Debug\net8.0\refint\practice_9_third_course.dll
+F:\University\Интернет технологии и базы данных\Практика\9\practice_9_third_course\obj\Debug\net8.0\practice_9_third_course.pdb
+F:\University\Интернет технологии и базы данных\Практика\9\practice_9_third_course\obj\Debug\net8.0\practice_9_third_course.genruntimeconfig.cache
+F:\University\Интернет технологии и базы данных\Практика\9\practice_9_third_course\obj\Debug\net8.0\ref\practice_9_third_course.dll
